@@ -1,0 +1,5 @@
+O=C(O)[C@H]1C2CCC(CC2)[C@@H]1n1cnc2cnc(-c3c[nH]c4ncc(F)cc34)nc21 CHEMBL4589525
+O=C(O)[C@H]1C2CCC(CC2)[C@@H]1N1CCOc2cnc(-c3c[nH]c4ncc(F)cc34)nc21 CHEMBL4542293
+O=C(O)[C@H]1C2CCC(CC2)[C@@H]1Nc1nc(-c2c[nH]c3ncc(F)cc23)nc2cccc(F)c12 CHEMBL4464813
+O=C(O)[C@H]1C2CCC(CC2)[C@@H]1Nc1nc(-c2c[nH]c3ncc(F)cc23)nc2cccnc12 CHEMBL4514982
+Cc1cnc2c(N[C@H]3C4CCC(CC4)[C@@H]3C(=O)O)nc(-c3c[nH]c4ncc(F)cc34)nc2c1 CHEMBL4522400
